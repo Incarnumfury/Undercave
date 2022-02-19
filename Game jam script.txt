@@ -1,0 +1,78 @@
+Game Jam Script
+
+Wizard - "Hey its dangerous up ahead, be careful of yourself."
+
+After 1st Death
+
+Wizard - "Hey its dangerous up ahead... wait have we done this beofre?"
+
+Player - "Ive been through here before. I ... Died and I just came back here. I dont know how its possible. Can you help me?"
+
+Wizard - "I can use an enchantment to have you gradually gain power every time you die and come back. In hopes for you to break the loop at the end of the dungeon."
+
+*Wizard enchants the player*
+
+After 2nd Death
+
+Wizard - "Hey its dangerous up ahead..."
+
+Player - "We've done this before, dont worry you gave me an enchantment to help me gain power, I just hope it works eventually."
+
+Wizard - "Well if you run into any more dangers come back to me if you need help. I will try to help as much as I can."
+
+
+After 1st Boss Death
+
+Wizard - "Hey its dang..."
+
+Player - "Dangerous up ahead, yes I know, there is a very powerful enemy in there who managed to kill me in on attack, do you have anything that can help me survive his attacks?"
+
+Wizard - "Why yes I have here a potion of shielding, I hope it helps."
+
+Player - "Huh yeah so do I."
+
+*You drink the potion and feel resiliant.*
+
+After 2nd Boss Death
+
+Wizard - " Hey ..."
+
+Player - "Its dangerous up ahead, be careful, blah blah blah."
+
+Wizard - "I sense that youve been through and talked to me before."
+
+Player - "Yeah I have, there is a enemy in there that is too strong and none of my attacks do anything to hurt it, can you help me?"
+
+Wizard - "Of course I have here a potion of power that can let anyone cut through the strongest of foes."
+
+*You drink the potion and feel power surging through you.*
+
+Player - "Thanks if I fail I will be back, and Ill say 'Shillelagh' to try and jog your memory."
+
+After dying to fire attack
+
+Wizard - "..."
+
+Player - "Shillelagh"
+
+Wizard - "Hmm something about this seems eerily familiar, we have met before havent we, but not in this time."
+
+Player - "Yes I keep dying and coming back to this point, is there anything you can give me to help with fire?"
+
+Wizard - "Im running low on potions, luckily I do have a potion of fire resistance."
+
+*You drink the potion and somehow feel ... cool.*
+
+Player - "Thank you I hope I can succeed with all of this. You have been a great help."
+
+After next boss death
+
+Wizard - "You seem familiar, I have done this before I am sure. What might I help you with stranger?"
+
+Player - "This damn boss keeps killing me and I need more power to defeat him."
+
+Wizard - "This is my last potion, a potion of dexterity, after this you must defeat the boss with your own power"
+
+Player - "Thank you for all of your help, farewell."
+
+*You drink the potion and feel a burst of energy within you.*

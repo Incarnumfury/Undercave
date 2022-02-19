@@ -1,0 +1,86 @@
+Theme: Deja Vu
+
+Game Jam Ideas:
+
+Dungeon Loop:
+
+-Description: Small dungeon crawler composed of multiple small arenas where enemies are fought leading up to a boss. You pass under a waterfall to enter the boss room. The boss kills you, guarentied and you respawn at the beginning of the dungeon and talk to a wizard who gives you weapons to defeat the boss. The wizard also tells you that the waterfall you went under is the waterfall of time and reverts to the start of the day when someone dies but it only lasts for 24 hours. The boss continues to one hit kill you and you use your knowledge of his attacks to ask the wizard for help each time you respawn. After a certain amount of times you are finally able to kill the boss leading to the end of the dungeon. You open a chest to receive a crown?(Edit final reward) and the game ends.
+
+-Progression:
+ -Weapons acquired: Axe, Crossbow
+ -Items to survive boss attacks: Potion that blocks a super damaging blow, Fire resistant potion(protects against fire attack), potion of power(to actually hurt the boss), Potion of dexterity(increases speed to help dodge normal attacks)
+
+-How deja vu plays in: Every time you die your character talks to the wizard and he brings up how he feels like hes done this before uses his knowledge to assist him in defeating the boss. We also change the encounter rooms ever so slightly to make the player think theyve been there before.
+
+-Items to make
+	Weapons: Axe, Crossbow
+	Cave Objects: Old armor, old/broken weapons, Skeletons, Stalagtites, Stalagmites, Mushrooms
+	Enemies: Goblins, Slime, Skeleton, Boss
+	Play Areas: Beginning area, Wizard Area, Lava bridge room, Underground river room, mushroom room, boss room
+	Wizard
+
+-Animations Needed:
+	Boss/Enemy animations
+	Attacking animations
+	Walking animations
+
+-Features:
+	Weapon Swapping
+	Dodging (cooldown 2 seconds, subject to change)
+	Health Potion(Gives 100 Health every 15 seconds, subject to change)
+
+-Pathing:
+Player Starts in the spawn room which could be the entrance to the cave/dungeon, then they go to the wizard room and meet the wizard, once done they fight through 3 different rooms to the waterfall room and to the boss room. When they die they are sent back to the starting room and try and try again until they defeat the boss.
+
+-General Stats:(subject to change)
+	-Player:
+	  Health: 250 +4%per attempt
+	  Speed: 100
+
+	-Goblin:
+	  Health: 150
+	  Speed: 95
+	  Damage: 45
+	  AtkSpd: 1.25 per second
+	-Slime:
+	  Health: 300
+	  Speed: 70
+	  Damage: 100
+	  AtkSpd: 0.5 per second
+	-Skelton Archer
+	  Health: 100
+	  Speed: 70
+	  Damage: 75
+	  AtkSpd: 1 per second
+	-Boss:
+	  Health: 1000 +10%per 2 attempts
+	  Speed: 75
+	  Damage: 250
+	  AtkSpd: 1 per second
+	  Fire Atk Dmg: 250
+	 
+	-Axe:
+	  Damage: 50 +7.5%per attempt
+	  AtkSpd: 1.5 per second
+	-Crossbow:
+	  Damage: 100 +1%per attempt
+	  ReloadSpd: 1 second (Cannot Attack with sword while reloading)
+	  Ammo: 20 Max
+
+	-Potion of Shielding:
+	  Reduces damage from non-boss enemies by 2.5-5%(subject to change), Reduces damage taken by boss down to 100
+	-Potion of Dexterity:
+	  Increases movement speed by 10% and reduces dodge time by 0.5 seconds
+	-Potion of Power:
+	  Increases weapon damages by 10%? Test to balance out.
+	-Potion of Fire Resistance:
+	  Decreases damage taken by fire attack to 50
+
+-Sounds:
+	Slime Squish -done
+	Skeleton bones rattleing -Done
+	Sword Clashing -Done
+	Player Damgae Sounds -Done
+	Large Smash from a club -Done
+	Echoing footsteps -Done
+	Music -Done
